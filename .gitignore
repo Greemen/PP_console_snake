@@ -1,0 +1,49 @@
+﻿# Ignore build folders
+bin/
+obj/
+
+# Ignore Rider and IDE files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Ignore specific Rider files
+.idea/.idea.PP_console_snake/.idea
+
+# Ignore NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore log, cache, and temp files
+*.log
+*.lock.json
+*.cache
+*.tmp
+*.temp
+
+# Ignore Rider's workspace files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+
+# Ignore JetBrains Rider data folders
+.idea/.idea.PP_console_snake/.idea/*
+.idea/.idea.PP_console_snake/.idea/workspace.xml
+.idea/.idea.PP_console_snake/.idea/tasks.xml
+.idea/.idea.PP_console_snake/.idea/dictionaries/
+.idea/.idea.PP_console_snake/.idea/shelf/
+.idea/.idea.PP_console_snake/.idea/vcs.xml
+.idea/.idea.PP_console_snake/.idea/modules.xml
+.idea/.idea.PP_console_snake/.idea/misc.xml
